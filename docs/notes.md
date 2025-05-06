@@ -18,3 +18,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
