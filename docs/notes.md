@@ -26,3 +26,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- clarify the setup steps
