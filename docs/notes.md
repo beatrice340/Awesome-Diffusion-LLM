@@ -28,3 +28,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
