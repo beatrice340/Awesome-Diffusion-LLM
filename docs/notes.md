@@ -54,3 +54,4 @@ Notes and usage details for Awesome-Diffusion-LLM.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
